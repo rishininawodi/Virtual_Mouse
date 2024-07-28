@@ -21,8 +21,8 @@ while True:
 
                 # get x and y possition
 
-              x = landmark.x
-              y = landmark.y
+              x = int(landmark.x*frame_width)
+              y = int(landmark.y*frame_height)
               print(x, y)
 
 
