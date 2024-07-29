@@ -1,1 +1,1 @@
-<h2>Virtual Mouse</h2>
+<h1>Virtual Mouse</h1>
