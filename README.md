@@ -13,7 +13,6 @@
 
 <h2>Requirements</h2>
 <ul>
-
 <li>Python 3.x</li>
 <li>OpenCV</li>
 <li>MediaPipe</li>
