@@ -10,8 +10,10 @@
 <li><b>Video Processing with OpenCV:</b> Employs OpenCV for real-time video capture and processing, ensuring low latency and high responsiveness.</li>
 <li><b>Customizable Gestures:</b> Users can define and customize gestures for different mouse actions, allowing a personalized user experience.</li>
 </ul>
+
+<h2>Requirements</h2>
 <ul>
-<li>Requirements</li>
+
 <li>Python 3.x</li>
 <li>OpenCV</li>
 <li>MediaPipe</li>
